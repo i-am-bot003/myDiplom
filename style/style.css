@@ -403,4 +403,7 @@ footer{
   .deal{
     text-align: center;
   }
+  footer{
+    width: 100%
+  }
 }
