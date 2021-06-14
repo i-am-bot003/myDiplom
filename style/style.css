@@ -406,4 +406,11 @@ footer{
   footer{
     width: 100%
   }
+  
+  .footerDown{
+    width: 100%
+  }
+  .footerUp{
+    width: 100%
+  }
 }
