@@ -404,8 +404,8 @@ footer{
     text-align: center;
   }
   footer{
-    width: 400px;
-  }
+    width: 100%;
+  
   
   .footerDown{
     width: 100%
