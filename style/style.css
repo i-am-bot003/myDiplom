@@ -408,9 +408,9 @@ footer{
   }
   
   .footerDown{
-    width: 500px
+    width: 100%
   }
   .footerUp{
-    width: 500px
+    width: 100%
   }
 }
